@@ -1,0 +1,4 @@
+app/ios/
+app/android/
+npm-debug.log
+app/test/widget_test.dart
